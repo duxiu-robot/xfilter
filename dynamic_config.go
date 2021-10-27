@@ -3,10 +3,10 @@ package xfilter
 import (
 	"context"
 
+	"github.com/duxiu-robot/config"
+	"github.com/duxiu-robot/filter"
+	"github.com/duxiu-robot/go-utils/object"
 	"github.com/pkg/errors"
-	"github.com/techxmind/config"
-	"github.com/techxmind/filter"
-	"github.com/techxmind/go-utils/object"
 )
 
 const (

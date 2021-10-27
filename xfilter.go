@@ -5,10 +5,10 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/techxmind/filter"
-	_ "github.com/techxmind/filter/ext/location"
-	_ "github.com/techxmind/filter/ext/request"
-	_logger "github.com/techxmind/logger"
+	"github.com/duxiu-robot/filter"
+	_ "github.com/duxiu-robot/filter/ext/location"
+	_ "github.com/duxiu-robot/filter/ext/request"
+	_logger "github.com/duxiu-robot/logger"
 )
 
 var (

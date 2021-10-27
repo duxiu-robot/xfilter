@@ -3,9 +3,9 @@ package xfilter
 import (
 	"encoding/json"
 
+	"github.com/duxiu-robot/filter"
 	"github.com/hashicorp/golang-lru"
 	"github.com/spaolacci/murmur3"
-	"github.com/techxmind/filter"
 )
 
 const (

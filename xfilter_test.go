@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
+	"github.com/duxiu-robot/filter/core"
 	"github.com/stretchr/testify/assert"
-	"github.com/techxmind/filter/core"
 )
 
 func TestRun(t *testing.T) {

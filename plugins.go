@@ -3,7 +3,7 @@ package xfilter
 import (
 	"strings"
 
-	"github.com/techxmind/go-utils/object"
+	"github.com/duxiu-robot/go-utils/object"
 )
 
 var (

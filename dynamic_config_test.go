@@ -4,9 +4,9 @@ import (
 	"context"
 	"testing"
 
+	"github.com/duxiu-robot/config"
+	"github.com/duxiu-robot/filter/core"
 	"github.com/stretchr/testify/assert"
-	"github.com/techxmind/config"
-	"github.com/techxmind/filter/core"
 )
 
 func getTestMapConfig() *config.MapConfig {
